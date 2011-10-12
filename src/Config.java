@@ -1,4 +1,4 @@
-﻿
+
 class Config {
 
     // pouze pro vytvoreni seznamu
@@ -44,7 +44,7 @@ class Config {
         set.addUnit(new Unit("pt", "Point (používá se u tiskáren)", 2845));
         set.addUnit(new Unit("prst", "Prostě prst", 50.201));
         set.addUnit(new Unit("prut", "Prostě prut", 0.209));
-        set.addUnit(new Unit("píď", "Prostě píď", 5.02)); 
+        set.addUnit(new Unit("píď", "Prostě píď", 5.02));
     }
 
     // vrati prevodnik s naplnenym seznamem
